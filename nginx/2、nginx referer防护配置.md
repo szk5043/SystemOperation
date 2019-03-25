@@ -29,13 +29,13 @@ server {
    }
 }
 ```
-**加referer测试**  
+**加referer测试**      
 ![image](./images/4.png)  
-**不加referer测试**  
+**不加referer测试**      
 ![image](./images/5.png)
-**页面正常请求**
+**页面正常请求**    
 ![image](./images/6.png)
-**页面非正常请求**
+**页面非正常请求**    
 ![image](./images/7.png)  
 
 [Nginx ngx_http_rederer_module文档](http://nginx.org/en/docs/http/ngx_http_referer_module.html)
