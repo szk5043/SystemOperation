@@ -7,6 +7,6 @@
   - springcloud
   - fastlane APP
 - 自动化脚本
-  - 使用maven和nodejs容器进行应用打包和容器镜像构建
+  - 使用maven和nodejs容器进行应用编译和容器镜像构建
   - 应用部署
 
