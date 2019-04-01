@@ -2,7 +2,8 @@
 
 ##  GitLab CI流程简介
 
-![image](./images/1.png) 
+![image](./images/1.png)    
+
 粉色：
 
 - GitLab的CI/CD由`.gitlab-ci.yml`文件配置
