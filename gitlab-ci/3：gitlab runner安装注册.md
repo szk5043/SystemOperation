@@ -52,7 +52,7 @@ check_interval = 0
   [runners.cache]
 
 ```
-#### 1.5 gitlab runner/
+#### gitlab runner register
 ![image](./images/2.png)
 > 注册成功
 
